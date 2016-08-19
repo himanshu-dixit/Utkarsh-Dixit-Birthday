@@ -1,0 +1,5 @@
+# Utkarsh-Dixit-Birthday
+A Birthday Website For My Brother.<br>
+Fetches a random info or liner from txt file by uin '\n'.<br>
+Bright Colors are displayed randomly.
+A new line is presented at every refresh.
